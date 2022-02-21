@@ -1,0 +1,2 @@
+xprop WM_CLASS
+
