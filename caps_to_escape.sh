@@ -1,2 +1,3 @@
-setxkbmap -option caps:escape
+#!/bin/sh
 
+setxkbmap -option caps:escape

@@ -1,2 +1,3 @@
-xprop WM_CLASS
+#!/bin/sh
 
+xprop WM_CLASS
